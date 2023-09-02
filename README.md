@@ -1,6 +1,8 @@
-# ALISHA MINJ
+# **ALISHA MINJ**
+| Baltimore, MD 21201 | 443-691-7868 | alishaminj1204@gmail.com
 
-![Alisha Minj Headshot](URL_TO_YOUR_IMAGE_HERE)
+![alisha_photo]([Alisha.jpg](https://github.com/alishaminj12/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Alisha.jpg))
+
 
 **Address:** Baltimore, MD 21250  
 **Phone:** 443-864-1991  
