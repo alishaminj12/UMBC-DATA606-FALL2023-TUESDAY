@@ -1,7 +1,7 @@
 # **ALISHA MINJ**
 | Baltimore, MD 21201 | 443-864-1991 | alisham2@umbc.edu | www.linkedin.com/in/alisha-minj
 
-![alisha_photo](https://github.com/alishaminj12/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Alisha.jpg))
+![alisha_photo](https://github.com/alishaminj12/UMBC-DATA606-FALL2023-TUESDAY/blob/main/Alisha.jpg)
 
 
 ## EDUCATION 
