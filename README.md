@@ -62,3 +62,7 @@ Bhilai Steel Plant Bhilai, India
 - Value added course in C, C++, certified by Sai Career Visions.
 - Python and Machine learning course by Udemy
 
+## Personal Interests
+- Immersing myself in painting.
+- Discovering solace through diverse musical tunes.
+
